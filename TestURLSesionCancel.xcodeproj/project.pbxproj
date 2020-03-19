@@ -13,6 +13,7 @@
 		A7549B68242363C600E1C276 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7549B66242363C600E1C276 /* Main.storyboard */; };
 		A7549B6A242363C700E1C276 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7549B69242363C700E1C276 /* Assets.xcassets */; };
 		A7549B6D242363C700E1C276 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7549B6B242363C700E1C276 /* LaunchScreen.storyboard */; };
+		A7549B76242368B400E1C276 /* TestURLSesionCancel.png in Resources */ = {isa = PBXBuildFile; fileRef = A7549B75242368B400E1C276 /* TestURLSesionCancel.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,8 @@
 		A7549B69242363C700E1C276 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7549B6C242363C700E1C276 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7549B6E242363C700E1C276 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7549B74242368A600E1C276 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A7549B75242368B400E1C276 /* TestURLSesionCancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TestURLSesionCancel.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +43,8 @@
 		A7549B54242363C600E1C276 = {
 			isa = PBXGroup;
 			children = (
+				A7549B75242368B400E1C276 /* TestURLSesionCancel.png */,
+				A7549B74242368A600E1C276 /* README.md */,
 				A7549B5F242363C600E1C276 /* TestURLSesionCancel */,
 				A7549B5E242363C600E1C276 /* Products */,
 			);
@@ -125,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7549B76242368B400E1C276 /* TestURLSesionCancel.png in Resources */,
 				A7549B6D242363C700E1C276 /* LaunchScreen.storyboard in Resources */,
 				A7549B6A242363C700E1C276 /* Assets.xcassets in Resources */,
 				A7549B68242363C600E1C276 /* Main.storyboard in Resources */,
